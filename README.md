@@ -12,7 +12,7 @@
 ## أعضاء الفريق
 
 * Yousef Filmban
-* اسم الطالب الثاني
-* اسم الطالب الثالث
-* اسم الطالب الرابع
-
+* Rayan Saleh
+* Yazeed Alraddadi
+* Majeed Garoot
+* Nawaf Alnofaie
